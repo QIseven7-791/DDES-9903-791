@@ -20,7 +20,7 @@ public class remember5 : MonoBehaviour
     private void Start()
     {
         StartCoroutine(TypeText(testText, @"Did I really... 
-protect your daughter?", speakspeed));
+protect my daughter?", speakspeed));
 
     }
 }
